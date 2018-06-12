@@ -130,7 +130,7 @@ theme: Anisina
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:gamerzh/gamerzh.github.io.git
+  repo: https://github.com/gamerzh/gamerzh.github.io.git
   branch: master
 
 
